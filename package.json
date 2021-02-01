@@ -1,0 +1,43 @@
+{
+  "name": "react-js-buy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.5",
+    "apollo-boost": "^0.4.9",
+    "apollo-link-context": "^1.0.20",
+    "apollo-link-http": "^1.5.17",
+    "graphql": "^15.1.0",
+    "graphql-tag": "^2.10.3",
+    "lodash": "^4.17.15",
+    "next": "^10.0.6",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-addons-create-fragment": "^15.6.2",
+    "react-apollo": "^3.1.5",
+    "react-art": "^16.13.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.32.5",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.4.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
